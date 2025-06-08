@@ -8,7 +8,7 @@ This project is a **Java-based implementation of the Tree of Life (ToL)**, devel
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The project uses two CSV files:
 
@@ -29,7 +29,7 @@ Each species is represented as a node, and nodes are linked to form a full evolu
 
 ---
 
-## 🧪 Functionalities
+##  Functionalities
 
 The system provides a menu with the following options:
 
@@ -48,7 +48,7 @@ The system provides a menu with the following options:
 
 ---
 
-## 🧠 Learning Objectives
+##  Learning Objectives
 
 - Implement a general tree structure in Java
 - Use ADTs, OOP principles, and exception handling
@@ -58,7 +58,7 @@ The system provides a menu with the following options:
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Compile all Java files:
 
@@ -75,6 +75,6 @@ Make sure `treeoflife_nodes.csv` and `treeoflife_links.csv` are placed in the ro
 
 ---
 
-## 📄 License
+## License
 
 This project is for educational and academic use only.
