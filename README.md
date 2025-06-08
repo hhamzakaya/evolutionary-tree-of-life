@@ -72,13 +72,6 @@ The system provides a menu with the following options:
 
 Make sure `treeoflife_nodes.csv` and `treeoflife_links.csv` are placed in the root directory.
 
----
-
-## 👨‍💻 Author
-
-- **Shakhobiddin Urinov**  
-- **DEU Computer Engineering**  
-
 
 ---
 
